@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' />
 
-I'm the weekend athlete type - and I enjoy cycling, hiking, and traveling.
+I'm the weekend athlete type - and I enjoy cycling, hiking, and travelling.
 
 Senior software engineer with extensive experience in the design, development, and
 operation of large-scale distributed systems.
@@ -26,7 +26,7 @@ technical decisions, ensuring that each initiative is aligned with corporate
 objectives and generates measurable value.
 
 [![Meu blog](https://img.shields.io/badge/Acesse_meu_Portal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br)
-[![My blog](https://img.shields.io/badge/Access_my_protal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br/en)
+[![My blog](https://img.shields.io/badge/Access_my_portal-30A3DC?style=for-the-badge)](https://www.adrianovieira.eng.br/en)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriano-svieira/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu_Perfil_na_DIO-000?style=for-the-badge)](https://web.dio.me/users/adriano_svieira)
