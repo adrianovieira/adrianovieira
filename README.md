@@ -92,7 +92,7 @@ objectives and generates measurable value.
 
 | Gitlab stats | GitHub stats |
 | ------------ | ------------ |
-| ![Gitlab stats](https://gitlab-readme-stats-phi.vercel.app/api?username=adrianovieira&show_icons=true&theme=dark&title_color=FF4500) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovieira&show_icons=true&theme=merko) |
+| [![Gitlab stats](https://gitlab-readme-stats-phi.vercel.app/api?username=adrianovieira&show_icons=true&theme=dark&title_color=FF4500)](https://gitlab.com/adrianovieira) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianovieira&show_icons=true&theme=merko)](https://github.com/adrianovieira) |
 
 #### Projects
 
