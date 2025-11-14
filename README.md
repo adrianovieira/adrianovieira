@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey everyone! 👋
 
 <!--
 **adrianovieira/adrianovieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' /><img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' />
 
-Hey everyone!  
 I'm the weekend athlete type - and I enjoy cycling, hiking, and traveling.
 
 Senior software engineer with extensive experience in the design, development, and
@@ -32,7 +31,7 @@ objectives and generates measurable value.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriano-svieira/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu_Perfil_na_DIO-000?style=for-the-badge)](https://web.dio.me/users/adriano_svieira)
 
-### Habilidades
+### Abilities
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![Gitlab](https://img.shields.io/badge/Gitlab-F00000?style=for-the-badge&logo=gitlab)](https://docs.gitlab.com/)
@@ -45,7 +44,7 @@ objectives and generates measurable value.
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Banco de Dados
+#### SQL/noSQL Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,7 +55,7 @@ objectives and generates measurable value.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-#### Tecnologias
+#### Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes)
