@@ -100,6 +100,13 @@ objectives and generates measurable value.
 
 #### Projects
 
+- *Agile, Scalable APIs & Python*, published article at:  
+  https://dev.to/adrianovieira/agile-scalable-apis-python-2ma
+- Workout API: An end‑to‑end asynchronous flow demo Python app  
+  https://gitlab.com/adrianovieira/workout-api  
+  referentes à **`dev`** _branch_  
+    [![image](https://gitlab.com/adrianovieira/workout-api/badges/dev/pipeline.svg)](https://gitlab.com/adrianovieira/workout-api/-/pipelines)
+    [![image](https://gitlab.com/adrianovieira/workout-api/badges/dev/coverage.svg?job=job::tests::api&key_text=coverage)](https://gitlab.com/adrianovieira/workout-api/-/jobs/artifacts/dev/browse?job=job::tests::api)
 - Mock server: Yet Another JSON Server  
   [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/yet-another-json-server)](https://gitlab.com/adrianovieira/ya-json-server)
   [![image](https://gitlab.com/adrianovieira/ya-json-server/badges/main/pipeline.svg)](https://gitlab.com/adrianovieira/ya-json-server/-/pipelines)
